@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="PLaberinto.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="56"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="flaberinto.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="219"/>
+        <CursorPos X="3" Y="221"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="ujuego.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="176"/>
+        <CursorPos X="79" Y="195"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="flab.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Lab"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="22"/>
+        <CursorPos Y="35"/>
+        <UsageCount Value="56"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:/Lazaruss/components/lazutils/laztracer.pas"/>
+        <UnitName Value="LazTracer"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="32"/>
+        <CursorPos Y="50"/>
+        <UsageCount Value="8"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="D:/Lazaruss/lcl/include/picture.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="744"/>
+        <CursorPos Y="762"/>
+        <UsageCount Value="12"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="D:/Lazaruss/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3530"/>
+        <CursorPos Y="3548"/>
+        <UsageCount Value="12"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="D:/Lazaruss/lcl/dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="706"/>
+        <CursorPos X="11" Y="724"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="ujuego.pas"/>
+        <Caret Line="760" Column="41" TopLine="743"/>
+      </Position1>
+      <Position2>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="115" Column="15" TopLine="80"/>
+      </Position2>
+      <Position3>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="131" Column="3" TopLine="112"/>
+      </Position3>
+      <Position4>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="176" TopLine="163"/>
+      </Position4>
+      <Position5>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="125" Column="3" TopLine="104"/>
+      </Position5>
+      <Position6>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="170" TopLine="160"/>
+      </Position6>
+      <Position7>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="215" Column="12" TopLine="200"/>
+      </Position7>
+      <Position8>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="218" TopLine="200"/>
+      </Position8>
+      <Position9>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="216" Column="8" TopLine="191"/>
+      </Position9>
+      <Position10>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="208" Column="6" TopLine="197"/>
+      </Position10>
+      <Position11>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="135" Column="14" TopLine="119"/>
+      </Position11>
+      <Position12>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="121" Column="3" TopLine="112"/>
+      </Position12>
+      <Position13>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="123" Column="3" TopLine="114"/>
+      </Position13>
+      <Position14>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="279" Column="3" TopLine="254"/>
+      </Position14>
+      <Position15>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="284" Column="3" TopLine="254"/>
+      </Position15>
+      <Position16>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="283" Column="3" TopLine="253"/>
+      </Position16>
+      <Position17>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="285" Column="3" TopLine="255"/>
+      </Position17>
+      <Position18>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="305" Column="4" TopLine="275"/>
+      </Position18>
+      <Position19>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="304" Column="4" TopLine="274"/>
+      </Position19>
+      <Position20>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="303" Column="4" TopLine="273"/>
+      </Position20>
+      <Position21>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="302" Column="4" TopLine="272"/>
+      </Position21>
+      <Position22>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="303" Column="4" TopLine="273"/>
+      </Position22>
+      <Position23>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="304" Column="4" TopLine="274"/>
+      </Position23>
+      <Position24>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="305" Column="4" TopLine="275"/>
+      </Position24>
+      <Position25>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="312" Column="4" TopLine="282"/>
+      </Position25>
+      <Position26>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="170" Column="3" TopLine="141"/>
+      </Position26>
+      <Position27>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="228" Column="15" TopLine="219"/>
+      </Position27>
+      <Position28>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="234" Column="15" TopLine="216"/>
+      </Position28>
+      <Position29>
+        <Filename Value="flaberinto.pas"/>
+        <Caret Line="238" Column="30" TopLine="31"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
